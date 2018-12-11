@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,MaterialCostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+39,Dave,MI,5.75,Tile,888,3.50,4.15,3108.00,3685.20,390.609000,7183.809000

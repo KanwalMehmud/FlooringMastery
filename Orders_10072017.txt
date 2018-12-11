@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,MaterialCostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+38,Sadie,PA,6.75,Carpet,800,2.25,2.10,1800.00,1680.00,234.900000,3714.900000

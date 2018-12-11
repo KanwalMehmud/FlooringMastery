@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,MaterialCostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+48,Kai,OH,6.25,Tile,666,3.50,4.15,2331.00,2763.90,318.431250,5413.331250
+52,Mary,MI,5.75,Laminate,44,1.75,2.10,77.00,92.40,0.000,169.400
+37,Lisa,PA,6.75,Carpet,200,2.25,2.10,450.00,420.00,58.725000,928.725000
+53,Jarry,IN,6.00,Tile,77,3.50,4.15,269.50,319.55,35.3430,624.3930
+54,Jeff,PA,6.75,Carpet,33,2.25,2.10,74.25,69.30,10.0485,153.5985
+55,Jerry,MI,5.75,Laminate,33,1.75,2.10,57.75,69.30,7.30,134.35
+40,Billi,IN,6.00,Tile,22,3.50,4.15,77.00,91.30,0.00,168.30

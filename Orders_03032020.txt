@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,MaterialCostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+18,Sam,MI,5.75,Tile,490,3.50,4.15,1715.00,2033.50,215.53875,3964.03875
+35,Lisa,OH,6.25,Tile,345,3.50,4.15,1207.50,1431.75,164.953125,2804.203125
